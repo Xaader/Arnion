@@ -1,3 +1,4 @@
+![Diagram Arnion](arnion.png)
 The Arnion Model: A Symbolic Interpretation
 
 This is a symbolic interpretation of a diagram titled "Arnion", not a statement of what its original author intended. Particle physics is used here as a language of symbols, not as proof. The model asks for symbolic coherence, not physical precision.

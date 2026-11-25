@@ -2,7 +2,7 @@
 
 # The Arnion Model: A Symbolic Interpretation
 
-Diagram and interpretation by xaader.
+Diagram and interpretation by Xaader.
 
 This page presents the "Arnion" diagram and a symbolic reading of it. Particle physics is used here as a language of symbols, not as proof. The model asks for symbolic coherence, not physical precision.
 
